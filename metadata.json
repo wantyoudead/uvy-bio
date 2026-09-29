@@ -1,0 +1,6 @@
+{
+  "name": "uvy.bio — Minimalist Bio Link & Community",
+  "description": "Minimalist, buttery-smooth link-in-bio platform inspired by guns.lol with custom themes, audio player, badges, and community forum.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
